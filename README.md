@@ -1,6 +1,6 @@
 # PIXEL QUEENS | Aplikasi Pengolahan Citra Digital
 
-![Pixel Queens Logo](logo.png)
+![Pixel Queens Logo](IMG_2.png)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-blueviolet?style=for-the-badge&logo=tk)
